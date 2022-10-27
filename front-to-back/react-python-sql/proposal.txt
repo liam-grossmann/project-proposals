@@ -1,0 +1,66 @@
+Job Title:
+CSV/Data Manipulation Specialist + React Analytics Dashboard Builder
+
+
+Job Description:
+
+We are looking for a data manipulation specialist to help on our analytics dashboard project.
+
+Each month we download CSV files from an external company and use the data to create an analytics/reporting dashboard for our clients.
+
+We do not have API access to this data.
+
+We would like someone to take our CSV files and write a script to transform the data and write it to our MySQL database.
+This script will be code that we can run each month on the new CSV files that we download.
+
+The data will then be used to create a React dashboard which will visualize the data. The data will be filterable on certain dimensions.
+
+You will be provided with a mockup of the desired end product.
+
+
+
+
+
+Proposal:
+
+please allow me to introduce myself. My name is Liam and I have over 20 years experience working as a full stack developer.
+
+I have extensive experience with both server side and front end technologies including
+
+* Databases (SQL and MySQL) - 20 years
+stored procedures, ETL, database design, reporting, performance, denormalising for reporting, security
+
+* Server / Web API - 15 years
+Web api development including authentication, authorization (JWT tokens), performance, caching, intuitive routing, swagger and so on.
+Although I do not have extensive experience with Python, I could easily develop database ETL tools and a web API using it.
+(I would NOT charge for my time learning Python).
+I have some much more experience building web apis with C#. However if Python is your preferred solution that would not be a problem.
+
+* Front End
+React / Material UI including charting and reporting.
+Extensive experience with HTML, CSS, Tailwind, React, Routing, caching, MaterialUI, Data Visualisation (D3.js), charting components and so on.
+I deliver highly performant systems on the front end.
+
+Some small examples of my work:
+* Simple ReactJS/Material UI dashboard that I am currently working on:
+https://purple-grass-0e0f3ca10.2.azurestaticapps.net/ (Live Demo)
+https://github.com/liam-grossmann/react-material-admin (Git)
+
+* Stock Prices with D3 charting
+https://zealous-sky-017eda110.2.azurestaticapps.net/ (Live Demo)
+https://github.com/liam-grossmann/stock-prices-react (Git)
+
+* Star Wars (advanced CSS and D3) - just for fun !
+https://nice-bush-0e3f23110.2.azurestaticapps.net/
+https://github.com/liam-grossmann/star-wars-d3 (Git)
+
+
+I am available 20 hours per week and could easily develop a front to back solution for you.
+
+If you are interested we could chat over zoom (liam.grossmann@protonmail.com) so that I can better understand your requirements. Thereafter I will document a proposed technical design / architecture with a planned schedule for your consideration (free of charge). Once we agree the terms of the plan we could move forward.
+
+I have delivered amazing systems for clients for over 20 years. I guarantee you will not be dissappointed.
+
+Regards
+Liam
+liam.grossmann@protonmail.com
